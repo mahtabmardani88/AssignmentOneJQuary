@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(240, 189, 95);
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+div{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(64, 64, 66);
+}
+button{
+    width: 20%;
+    height: 2rem;
+    border-radius: 15px;
+    border: none;
+    font-size: 15px;
+}
+h2{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border: 2px solid rgb(110, 110, 110);
+    height: 60px;
+    padding-top: 30px;
+    border-radius: 25px;
+    color: rgb(66, 66, 66);
+}
+input{
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    padding-left: 20px;
+}
